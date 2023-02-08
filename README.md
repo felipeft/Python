@@ -1,3 +1,3 @@
 # Python
 
-basic concepts of programming in python
+Conceitos básicos de programação em python
